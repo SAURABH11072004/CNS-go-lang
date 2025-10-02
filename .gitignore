@@ -1,0 +1,19 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output of go build
+main
+
+# Logs
+*.log
+
+# Go workspace file
+go.work
+
+# Docker
+*.pid
